@@ -11,8 +11,8 @@ public class GitTest {
         System.out.println("666");
         System.out.println("pull");
         System.out.println("pull");
-        System.out.println("pull");System.out.println("pull");
-        System.out.println("pull");System.out.println("pull");
+        System.out.println("pull");
+        System.out.println("pull");
 
     }
 }
